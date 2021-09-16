@@ -50,10 +50,11 @@ data:extend({
         order = 6
     },
     {
-        type = "bool-setting",
+        type = "string-setting",
         name = "advanced-enriched-ore-based-assembling-machine-recipes",
         setting_type = "startup",
-        default_value = true,
+        allowed_values = {"disabled", "enabled", "require", "separate"},
+        default_value = "separate",
         order = 7
     }
 })
