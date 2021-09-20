@@ -1,7 +1,7 @@
 # K2-tweaks
 This mod adds various minor tweaks to the [Krastorio2](https://mods.factorio.com/mod/Krastorio2) Factorio mod.
 
-In 0.1.0 version, the mod only alters the recipes and tech tree. Any of the changes can be enabled or disabled individually.
+In 0.0.1 version, the mod only alters the recipes and tech tree. Any of the changes can be enabled or disabled individually.
 
 ## List of changes:
 * Any building that does not require liquid can now be crafted by hand. This applies to **Express underground belt**, **Express splitter** and **Nuclear reactor**, and added for consistency with other belts and reactors, and buildings overall.
